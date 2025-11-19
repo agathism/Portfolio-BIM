@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "particlesjs": "^2.2.3"
+  }
+}
